@@ -34,6 +34,14 @@ button:hover {
     background: #005bab;
     color: white;
 }
-img{
+
+img {
     width: 15%;
+}
+
+@media (max-width: 700px) {
+    img {
+        width: 50%;
+    }
+
 }
